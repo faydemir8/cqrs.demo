@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyLROAyWGwUY347TNUaxpWbUXKouAvr6NnQyHl3GDkRPnxaHv8PDc546eY8tFg9sZ27+7hL6IAwzubXYtW3b8g==",
+  "success": true,
+  "projectFilePath": "/Users/faruk.aydemir/www/myproject/cqrs-demo/CQRS.Demo/CQRS.Demo.Api/CQRS.Demo.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/faruk.aydemir/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/faruk.aydemir/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
